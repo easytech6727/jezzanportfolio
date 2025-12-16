@@ -131,12 +131,7 @@ export default function WorkPhotos() {
         )}
 
         {/* Note about uploading photos */}
-        <div className="mt-12 bg-lightgray p-6 rounded-xl max-w-3xl mx-auto text-center">
-          <p className="text-gray-700">
-            <span className="font-semibold text-navy">Note:</span> Replace placeholder images by adding your actual project photos to the{' '}
-            <code className="bg-white px-2 py-1 rounded text-gold">/public/work/</code> folder.
-          </p>
-        </div>
+      
       </div>
     </section>
   );
